@@ -2,7 +2,6 @@
 
 Example description.....
 
-## Subheader
+## Description
 
-The dog is watching you...
-Let's just say... yeah.
+This is my demo repo.
