@@ -13,4 +13,4 @@ Change2
 
 ## DEBUG DEVELOPMENT
 
-1. Utilize wiki if you do not understand program.
+1. Utilize wiki if you do not understand program
